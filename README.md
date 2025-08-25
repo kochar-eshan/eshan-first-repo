@@ -20,7 +20,7 @@ I’m **Eshan Kochar**, a student of **Computer Science & Engineering** at **MNN
 
 ## 🔗 Connect with Me
 - 📧 Email: *[eshankochar06@gmail.com]*  
-- 💼 LinkedIn: *[https://www.linkedin.com/in/eshan-kochar-73054027a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]*
+- 💼 LinkedIn: *[https://acesse.one/KMAv9]*
 - - 📸 Instagram: [@kochar_eshan](https://instagram.com/yourusername)
 
 ---
