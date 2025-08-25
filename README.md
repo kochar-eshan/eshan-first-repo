@@ -18,10 +18,12 @@ I’m **Eshan Kochar**, a student of **Computer Science & Engineering** at **MNN
 
 ---
 
-## 🔗 Connect with Me
-- 📧 Email: *[eshankochar06@gmail.com]*  
-- 💼 LinkedIn: *[https://acesse.one/KMAv9]*
-- - 📸 Instagram: [@kochar_eshan](https://instagram.com/yourusername)
+## 🔗 Connect with Me  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshankochar06@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kochar-eshan)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kochar_eshan)  
+
 
 ---
 
